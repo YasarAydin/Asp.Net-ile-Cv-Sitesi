@@ -5,7 +5,7 @@ Asp.Net ile Cv Sitesi ve Film
 🔧 Kullanılan Teknolojiler ve Araçlar:
 
 C#<br>
-Entity Framework
-Bootstrap
-HTML/CSS
-LINQ
+Entity Framework<br>
+Bootstrap<br>
+HTML/CSS<br>
+LINQ<br>
